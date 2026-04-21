@@ -266,7 +266,7 @@ body {
 }
 
 .modal-title {
-    font-family: 'Topor', Arial, sans-serif;
+    font-family: 'STRome', Arial, sans-serif;
     font-size: 2rem;
     margin-bottom: 1rem;
     color: #ffffff;
@@ -276,6 +276,7 @@ body {
 .modal-subtitle {
     color: #cccccc;
     font-size: 1rem;
+    font-family: 'STRome', Arial, sans-serif;
 }
 
 .application-form {
@@ -314,6 +315,7 @@ body {
     font-size: 1rem;
     font-weight: bold;
     color: #ffffff;
+    font-family: 'STRome', Arial, sans-serif;
 }
 
 .label-number {
@@ -389,6 +391,7 @@ body {
 .file-text {
     font-size: 1rem;
     color: #cccccc;
+    font-family: 'STRome', Arial, sans-serif;
 }
 
 .form-navigation {
@@ -402,6 +405,7 @@ body {
 .form-progress {
     font-size: 1rem;
     color: #cccccc;
+    font-family: 'STRome', Arial, sans-serif;
 }
 
 .progress-current {
@@ -412,7 +416,7 @@ body {
 
 .form-btn {
     padding: 1rem 2rem;
-    font-family: 'Topor', Arial, sans-serif;
+    font-family: 'STRome', Arial, sans-serif;
     font-size: 1rem;
     font-weight: bold;
     color: #ffffff;
@@ -490,7 +494,7 @@ body {
 }
 
 .success-content h3 {
-    font-family: 'Topor', Arial, sans-serif;
+    font-family: 'STRome', Arial, sans-serif;
     font-size: 1.8rem;
     margin-bottom: 1rem;
     color: #ffffff;
@@ -500,6 +504,7 @@ body {
 .success-content p {
     color: #cccccc;
     font-size: 1rem;
+    font-family: 'STRome', Arial, sans-serif;
 }
 
 @media (max-width: 768px) {
